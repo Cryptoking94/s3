@@ -9,7 +9,3 @@ lifecycle_prefix         = "logs/"
 transition_days          = 30
 transition_storage_class = "STANDARD_IA"
 expiration_days          = 365
-tags = {
-  Environment = "Dev"
-  Project     = "Terraform Example"
-}

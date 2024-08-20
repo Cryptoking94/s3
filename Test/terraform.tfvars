@@ -1,6 +1,6 @@
 region                   = "us-east-1"
 bucket_name              = "my-unique-bucket-name"
-acl                      = "public"
+acl                      = "public-read"
 force_destroy            = false
 versioning_enabled       = true
 lifecycle_enabled        = true
